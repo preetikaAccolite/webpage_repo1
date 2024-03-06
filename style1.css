@@ -20,9 +20,19 @@ body{
 .container{
     padding-top: 0;
     margin:20px 100px;
+    display:flex;
+    flex-wrap: wrap;
+  justify-content: space-between;
     /* margin-top: 0; */
     /* margin: 90px; */
+}
+.profile{
+    margin-top: 20px;
 } 
+.profile_container{
+    display: flex;
+    gap: 2rem;
+}
 /* .profile_image{
     display:flex;
     flex-wrap: wrap;
@@ -68,4 +78,39 @@ body{
         margin: 20px 100px;
         
     
+}
+.container4{
+
+    padding-top: 0;
+    /* margin-top: 0; */
+    margin: 20px 100px;
+    
+
+}
+.certification_heading{
+    font-style: italic;
+    background-color: chocolate;
+}
+.container5{
+
+    padding-top: 0;
+    /* margin-top: 0; */
+    margin: 20px 100px;
+}
+.project_heading{
+    font-style: italic;
+    background-color: chocolate;
+}
+.container6{
+
+    padding-top: 0;
+    /* margin-top: 0; */
+    margin: 20px 100px;
+}
+.lang_head{
+    font-style: italic;
+    background-color: chocolate;
+}
+.lang{
+    font-size: larger;
 }
