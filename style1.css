@@ -1,0 +1,71 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap') */
+* { 
+    padding:0;
+    margin: 0px;
+    box-sizing: border-box;
+}
+html {
+    font-size: medium;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: antiquewhite;
+} 
+.cont{
+    /* margin:100px; */
+    
+    margin-bottom: 0;
+}
+.container{
+    padding-top: 0;
+    margin:20px 100px;
+    /* margin-top: 0; */
+    /* margin: 90px; */
+} 
+/* .profile_image{
+    display:flex;
+    flex-wrap: wrap;
+  justify-content: space-between;
+  flex-direction: row;
+
+}  */
+.profile_name{
+    font-style: italic;
+    background-color: chocolate;
+}
+.profile_title{
+    margin: 20px 0px;
+}
+.container2{
+    padding-top: 0;
+    /* margin-top: 0; */
+    margin: 20px 100px;
+    
+}
+.education{
+    display:flex;
+    flex-wrap: wrap;
+  justify-content: space-between;
+}
+.education_heading{
+    font-style: italic;
+    background-color: chocolate;
+    margin: 20px 0px;
+}
+.profile_name{
+    font-style: italic;
+    background-color: chocolate;
+}
+.skill_heading{
+    font-style: italic;
+    background-color: chocolate;
+}
+.container3{
+
+        padding-top: 0;
+        /* margin-top: 0; */
+        margin: 20px 100px;
+        
+    
+}
